@@ -58,17 +58,7 @@ To ensure the policy was applied successfully, the following commands and checks
 ## 5. Troubleshooting & Observations
 - **Hidden Shares**: Using the `$` suffix is a best practice for administrative or departmental vaults to reduce the attack surface for internal reconnaissance.
 - **Item-Level Targeting**: For more complex environments, I recommend using Item-Level Targeting (ILT) within the GPO to filter by Security Group membership even if the GPO is linked at a higher domain level.
-### 1. Secure File Share Configuration
-![Share Setup](./images/share-security-permissions.png)
 
-### 2. GPO Development & Linking
-![GPO Linking](./images/gpo-link-managers-ou.png)
-
-### 3. Drive Map Preference Settings
-![Drive Settings](./images/drive-map-settings.png)
-
-### 4. Verification
-![Success](./images/03-Client-Verification.png.jpg)
 ### 1. Secure File Share Configuration
 ![Share Setup](Screenshots/share-security-permissions.png)
 
