@@ -69,3 +69,14 @@ To ensure the policy was applied successfully, the following commands and checks
 
 ### 4. Verification
 ![Success](./images/03-Client-Verification.png.jpg)
+### 1. Secure File Share Configuration
+![Share Setup](Screenshots/share-security-permissions.png)
+
+### 2. GPO Development & Linking
+![GPO Linking](Screenshots/gpo-link-managers-ou.png)
+
+### 3. Drive Map Preference Settings
+![Drive Settings](Screenshots/drive-map-settings.png)
+
+### 4. Verification
+![Success](Screenshots/03-Client-Verification.png)
