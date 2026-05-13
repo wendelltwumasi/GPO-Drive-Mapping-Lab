@@ -12,7 +12,7 @@ The core objective is to instruct Active Directory: *"If a user belongs to the M
 *   **Domain:** JUMBO.local
 *   **Server:** DC-Server-2-19
 *   **Target Group:** Managers
-*   **Network Path:** `\\DC-Server-2-19\Manager-Vault$`
+*   **Network Path:** `\\WIN-JIFQTFFRT3V\Manager-Vault$`
 *   **Drive Letter:** Z:
 *   **Protocol:** SMB (Server Message Block)
 
